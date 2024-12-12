@@ -11,7 +11,6 @@ width="auto" src="https://user-images.githubusercontent.com/74038190/229223263-c
 </p>
 
 # 🔗 Connect with me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="nouraymanh" /> </p>
 
 ### - 📫 Let's Connect! [LinkedIn](https://www.linkedin.com/in/nourayman9/)  
 ### - 🌱 Currently Learning advanced concepts in **AI for Software Analytics**.
@@ -57,6 +56,7 @@ width="auto" src="https://user-images.githubusercontent.com/74038190/229223263-c
   <img height="40" src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
   <img height="40" src="https://skillicons.dev/icons?i=git" alt="Git" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="nouraymanh" /> </p>
 
 
 
