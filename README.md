@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nour Ayman  
 
-<!--
-**nouraymanh/nouraymanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computer Engineering student** (Class of 2025) passionate about **AI**, **Software Engineering**, and the intersection of the two fields.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 Final-year Computer Engineering student working on my graduation project with Dr. Lydia Wahid.  
+- 🌟 Exploring how **AI applications** can improve **Software Engineering** workflows.  
+- 💻 Interested in **Natural Language Processing**, **Image Processing**, and **Machine Learning**.  
+- 🎯 Building innovative projects that merge AI and SWE principles.  
+
+---
+
+## 🔧 Skills & Technologies  
+
+### Programming Languages  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+
+### Frameworks & Tools  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
+
+---
+
+## 🌟 Featured Projects  
+
+### X-Clone (Twitter Clone)  
+**Description**: A feature-complete Twitter clone with user authentication, posting, liking, and real-time updates.  
+**Tech Stack**: React, Node.js, MongoDB  
+
+### Bubble Sheet Corrector & Grade Sheet Autofiller  
+**Description**: Automates bubble sheet correction using Image Processing techniques and generates detailed grading reports.  
+**Tech Stack**: Python, OpenCV  
+
+### OS Scheduler  
+**Description**: Designed and implemented a custom scheduling algorithm for operating systems.  
+**Tech Stack**: C++, Linux  
+
+---
+
+## 🌱 Currently Learning  
+- Deep Learning frameworks like **PyTorch** and **TensorFlow**.  
+- Advanced concepts in **AI for Software Analytics**.  
+
+---
+
+## 📫 Let's Connect!  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💻 [Portfolio](https://your-portfolio.com)  
+- ✉️ [Email Me](mailto:your.email@example.com)  
+
+Feel free to explore my repositories and connect with me to collaborate on exciting projects!
