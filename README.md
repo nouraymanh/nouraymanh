@@ -16,7 +16,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nouraymanh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
   </a>
 </div>
----
 
 <h3 align="left">Languages and Tools:</h3>
 
