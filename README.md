@@ -45,11 +45,7 @@ A **Computer Engineering student** (Class of 2025) passionate about **AI**, **So
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced concepts in **AI for Software Analytics**.  
----
-
-## 📫 Let's Connect!  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 Let's Connect! [LinkedIn](https://linkedin.com/in/nourayman09)  
+- 🌱 Currently Learning advanced concepts in **AI for Software Analytics**.
 - ✉️ [Email Me](mailto:your.email@example.com)
   
