@@ -10,7 +10,7 @@ height="auto"
 width="auto" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
-<h3 align="left">Connect with me:</h3>
+# 🔗 Connect with me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="nouraymanh" /> </p>
 
 ### - 📫 Let's Connect! [LinkedIn](https://www.linkedin.com/in/nourayman9/)  
@@ -20,13 +20,20 @@ width="auto" src="https://user-images.githubusercontent.com/74038190/229223263-c
 ---
 <div align="center">
   <a href="https://github.com/nouraymanh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouraymanh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nouraymanh"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nouraymanh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nouraymanh"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouraymanh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nouraymanh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GitHub Stats"/> 
+  </a> 
+</div>
+<div align="center">
+  <a href="https://github.com/nouraymanh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nouraymanh&theme=tokyonight" alt="Most Committed Language" style="border: 1px solid white; border-radius: 5px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nouraymanh&theme=tokyonight&utcOffset=8" alt="Productive Time" style="border: 1px solid white; border-radius: 5px;"/>
+  </a>  
 </div>
 
+
 ---
-<h3 align="left">Languages and Tools:</h3>
+# 🛠️ Languages and Tools:
 
 <p align="left">
   <img height="40" src="https://skillicons.dev/icons?i=java" alt="Java" />
