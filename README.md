@@ -14,13 +14,13 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student** (Class of 2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
+<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Nour Ayman" height="40" width="60" ></i>
 </a>
-<a href="https://www.linkedin.com/in/nourayman09/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
+<a href="https://www.linkedin.com/in/nourayman09/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Nour Ayman" height="40" width="60" ></i>
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="nouraymanh" /> </p>
 
 ---
 
