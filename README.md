@@ -23,12 +23,6 @@ width="auto" src="https://user-images.githubusercontent.com/74038190/229223263-c
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouraymanh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nouraymanh"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nouraymanh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nouraymanh"/>
   </a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nouraymanh&theme=tokyonight)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nouraymanh&theme=tokyonight)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nouraymanh&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api?username=nouraymanh&theme=tokyonight)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nouraymanh&theme=tokyonight&utcOffset=8)  
-
 </div>
 
 ---
