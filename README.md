@@ -2,17 +2,12 @@
 
 A **Computer Engineering student** (Class of 2025) passionate about **AI**, **Software Engineering**.  
 
----
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Nour Ayman" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/nourayman09/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Nour Ayman" height="40" width="60" ></i>
-</a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="nouraymanh" /> </p>
+
+- 📫 Let's Connect! [LinkedIn](https://linkedin.com/in/nourayman09)  
+- 🌱 Currently Learning advanced concepts in **AI for Software Analytics**.
+- ✉️ [Email Me](mailto:your.email@example.com)
 
 ---
 
@@ -41,11 +36,4 @@ A **Computer Engineering student** (Class of 2025) passionate about **AI**, **So
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
-
----
-
-- 📫 Let's Connect! [LinkedIn](https://linkedin.com/in/nourayman09)  
-- 🌱 Currently Learning advanced concepts in **AI for Software Analytics**.
-- ✉️ [Email Me](mailto:your.email@example.com)
-  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)    
