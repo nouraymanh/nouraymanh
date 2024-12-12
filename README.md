@@ -7,7 +7,7 @@
 align="center" dir="auto"
 alt="coding"
 height="auto"
-width="auto" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+width="auto" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 </p>
 
 # 🔗 Connect with me:
