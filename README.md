@@ -7,7 +7,7 @@
 
 ### - 📫 Let's Connect! [LinkedIn](https://linkedin.com/in/nourayman09)  
 ### - 🌱 Currently Learning advanced concepts in **AI for Software Analytics**.
-### - ✉️ Reach me at(mailto:your.email@example.com)
+### - ✉️ Reach me nourayman.h@gmail.com
 
 ---
 
