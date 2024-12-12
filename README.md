@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="nouraymanh" /> </p>
 
-### - 📫 Let's Connect! [LinkedIn](https://linkedin.com/in/nourayman09)  
+### - 📫 Let's Connect! [LinkedIn](https://www.linkedin.com/in/nourayman9/)  
 ### - 🌱 Currently Learning advanced concepts in **AI for Software Analytics**.
 ### - ✉️ Reach me through nourayman.h@gmail.com
 
