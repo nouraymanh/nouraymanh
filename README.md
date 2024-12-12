@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nour Ayman  
 
-A **Computer Engineering student** (Class of 2025) passionate about **AI**, **Software Engineering**.  
+A passionate **Computer Engineering student**.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouraymanh&label=Profile%20views&color=0e75b6&style=flat" alt="nouraymanh" /> </p>
