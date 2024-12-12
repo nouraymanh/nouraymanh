@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Nour Ayman</h1>  
 
-<h3 align="center"> A passionate <b>Computer Engineering student</b> @ <a href="https://eng.cu.edu.eg/en/" target="_blank">Cairo University Faculty of Engineering</a></h3>
+<h3 align="center"> A <b>Computer Engineering student</b> @ <a href="https://eng.cu.edu.eg/en/" target="_blank">Cairo University Faculty of Engineering</a></h3>
 
 <p align="center">
 <img
