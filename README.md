@@ -26,8 +26,8 @@ width="auto" src="https://user-images.githubusercontent.com/74038190/229223263-c
 </div>
 <div align="center">
   <a href="https://github.com/nouraymanh">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nouraymanh&theme=tokyonight" alt="Most Committed Language" style="border: 1px solid white; border-radius: 5px;"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nouraymanh&theme=tokyonight&utcOffset=8" alt="Productive Time" style="border: 1px solid white; border-radius: 5px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nouraymanh&theme=tokyonight" alt="Most Committed Language" style="border: 2px solid white; border-radius: 5px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nouraymanh&theme=tokyonight&utcOffset=8" alt="Productive Time" style="border: 2px solid white; border-radius: 5px;"/>
   </a>  
 </div>
 
