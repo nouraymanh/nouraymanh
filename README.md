@@ -4,14 +4,6 @@ A **Computer Engineering student** (Class of 2025) passionate about **AI**, **So
 
 ---
 
-## 🚀 About Me  
-- 🎓 Final-year Computer Engineering student working on my graduation project with Dr. Lydia Wahid.  
-- 🌟 Exploring how **AI applications** can improve **Software Engineering** workflows.  
-- 💻 Interested in **Natural Language Processing**, **Image Processing**, and **Machine Learning**.  
-- 🎯 Building innovative projects that merge AI and SWE principles.  
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RenatoResabala" target="blank"><i align="center" class="devicon-twitter-original" alt="Nour Ayman" height="40" width="60" ></i>
